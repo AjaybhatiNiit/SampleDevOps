@@ -1,2 +1,2 @@
 # SampleDevOps
-A sample DevOps project to create 
+A sample DevOps project to learn the setup steps.
